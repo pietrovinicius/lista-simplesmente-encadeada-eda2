@@ -1,3 +1,15 @@
+/*
+* Descrição de como operar com lista.
+*
+* Esta é uma imlementação da primeira
+* lista de exercício do 3 período da
+* matéria de Estrutura de Dados e 
+* Algoritmo II do curso de Engenharia 
+* da Computação da Faculdade FUCAPI 2012.
+*
+* @author Priscila Paixão
+*
+*/
 
 #ifndef _LISTA_SIMPLESMENTE_ENCADEADA_H
 #define _LISTA_SIMPLESMENTE_ENCADEADA_H

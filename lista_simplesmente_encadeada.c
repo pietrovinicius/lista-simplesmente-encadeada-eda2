@@ -1,3 +1,16 @@
+/*
+* Descrição de como operar com lista.
+*
+* Esta é uma imlementação da primeira
+* lista de exercício do 3 período da
+* matéria de Estrutura de Dados e 
+* Algoritmo II do curso de Engenharia 
+* da Computação da Faculdade FUCAPI 2012.
+*
+* @author Priscila Paixão
+*
+*/
+
 #include <stdio.h>
 #include "lista_simplesmente_encadeada.h"
 
